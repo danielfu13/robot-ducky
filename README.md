@@ -12,20 +12,15 @@
 
   ## Project Description
 
-  This project is a Team Profile Generator. The purpose of this project is to build a Team Profile Generator that will take information about employees on a software engineering team and
-  generate an HTML webpage that displays summaries of each person. Since testing is key to making code maintainable, I have written a unit test for each part of my code to ensure that it passes each test.
+  This project is a CMS-style Tech blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. I have followed the  MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication. 
 
   ## Installation 
 
-Download the zip file and open the file in a terminal. 
+  To use application, click on the deployed link <a href="https://robot-ducky.herokuapp.com/">here</a>.
   
   ## Usage
 
-Run the command: node index.js
-
-Fill in the prompts to create Team Profile Generator!
-
-Open index.html file in page folder to view completed Team Profile Generator.
+To use this application, clicked on the deployed link above. After reaching the depoloyed like, sign up for an account and start posting on your daily Tech Blog
 
   ## Contributors
 
