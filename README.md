@@ -1,4 +1,4 @@
-# Tech Blog
+# Model-View-Controller (MVC): Tech Blog
 
   ## Table of contents
   - [Description](#Description)
